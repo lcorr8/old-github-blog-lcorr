@@ -14,5 +14,5 @@ Check out my [Student Profile.](http://students.learn.co/students/laura-correa.h
 
 Collaborate with me on [GitHub.](https://github.com/lcorr8)
 
-or say hello! via social media: [Instagram,](https://www.instagram.com/l_corr/)[Twitter,](https://twitter.com/L_corr) or [Facebook.](https://www.facebook.com/L.Correa)[]()
+or say hello! via social media: [Instagram,](https://www.instagram.com/l_corr/) [Twitter,](https://twitter.com/L_corr) or [Facebook.](https://www.facebook.com/L.Correa)[]()
 
