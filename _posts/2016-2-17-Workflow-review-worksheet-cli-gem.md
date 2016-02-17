@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Workflow Review Worksheets: CLI Gem!
+title: Workflow Review Worksheets&#58; CLI Gem!
 ---
+
 When I studied in college I used to make one page review worksheets for most of my science classes. Then I would refer back to them every once in a while to keep concepts and workflows fresh in my mind. So I thought it would be cool to continue this form of review with all dev topics, and there is a chance that they might come in handy for other students as well, so I will be posting more of these worksheets soon.
 
 
