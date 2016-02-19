@@ -6,10 +6,10 @@ title: Broadway Now CLI Gem!
 I am now the brand new author of a Ruby Gem! :tada::dancer: It is called Broadway Now and it shows the 20 most popular Broadway Shows currently playing in NYC. The project took me about 4 days to complete, although I spent what felt like most of the time troubleshooting the publishing of the gem. This project was a [Learn](https://learn.co/verified/?coupon=lv-student-referral-25&utm_campaign=Learn%20Student%20Referral%20Program&utm_medium=In%20App%20Email&utm_source=Learn.co%20Email%20Drips) assignment, I was tasked with building and publishing a command line interface (CLI) gem that scrapes data and displays it.
 
 #### Project Requirements :mag:
-✓ Package as a gem
-✓ Provide a CLI on gem installation.
-✓ CLI must provide data from an external source, whether scraped or via a public API.
-✓ Data provided must go at least a level deep, generally by showing the user a list of available data and then being able to drill into a specific item.
+  ✓ Package as a gem
+  ✓ Provide a CLI on gem installation.
+  ✓ CLI must provide data from an external source, whether scraped or via a public API.
+  ✓ Data provided must go at least a level deep, generally by showing the user a list of available data and then being able to drill into a specific item.
 
 #### What does my gem do and how does it look? :clapper:
 
