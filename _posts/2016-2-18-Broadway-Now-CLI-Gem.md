@@ -32,11 +32,13 @@ I used bundler to create the scaffolding for my project as well as to release th
 >4.  Development dependencies are those needed during development of your gem. They are added in the gemspec file by: `spec.add_development_dependency “pry”`
 >5.  The gemspec file defines what is in the gem, author, version, dependencies, license, description etc.
 
-#### Biggest challenge :hammer_and_wrench:
+#### Biggest challenge :hammer:
 
 The **biggest challenge** for me was the publishing of my gem. Some setting was funky and when I tried to publish the action didnt finish and aborted half-way through. 
 
+
 Errors:
+
 
 `While executing gem ... (Gem::CommandLineError)
     Too many gem names`
@@ -48,18 +50,8 @@ There was a problem saving your gem: Home does not appear to be a valid URL`
 `While executing gem ... (Gem::Package::FormatError)
     No such file or directory @ rb_sysopen - broadway_now-0.1.1.gem`
 
+
 I eventually changed the gemspec homepage, and fiddled with various other settings until I was able to push my gem. Unfortunately I have not been able to call it properly. I expect to have my code review next week and I will update below on how I manage to resolve this issue, so come back soon for the mystery solution!
-
-
-
-
-
-
-
-
-
-
-
 
 ##### Resources
 - [Build a Jekyll blog with Jekyll Now](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
