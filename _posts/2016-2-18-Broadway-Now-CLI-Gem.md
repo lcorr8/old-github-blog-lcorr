@@ -26,7 +26,6 @@ The hardest part for me was to start with a blank page and no direction. I spent
 I used bundler to create the scaffolding for my project as well as to release the gem. The scaffolding got a bit confusing with the executable and environment files being set up differently than in previous projects, however Avi’s CLI Walkthrough lecture does an excellent job of explaining this set up and what specifically should go where and why.
 
 >##### Things I didn’t know when I started this project :bulb:
-
 >1. Use underscore instead of dashes to separate gem name when using `$ gem bundle <name>` otherwise you generate scaffolding with a funky structure.
 >2. We are no longer using a file called run or a file called environment. Your executable file is named after your cli gem name and located in bin, and your primary file (aka environment file) in lib should also have the name of the cli gem. [or thats what I understood at least]
 >3. Runtime dependencies are those your gem needs to work. They are added in the gemspec file like so: `spec.add_dependency “nokogiri”`
@@ -63,19 +62,19 @@ I eventually changed the gemspec homepage, and fiddled with various other settin
 
 
 ##### Resources
-• [Build a Jekyll blog with Jekyll Now](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
-• [Broadway.com](http://www.broadway.com/)
-• [Build a gem guide](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/)
-• [Ruby gems: Make a gem](http://guides.rubygems.org/make-your-own-gem/)
-• [Bundler](http://bundler.io/v1.11/bundle_gem.html)
-• [Ruby gems: Commands reference](http://guides.rubygems.org/command-reference/)
-• [Ruby gems: Publish a gem](http://guides.rubygems.org/publishing/)
-• [Workflow Review: Make a gem](http://lcorr8.github.io/Workflow-review-worksheet-cli-gem/)
+- [Build a Jekyll blog with Jekyll Now](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+- [Broadway.com](http://www.broadway.com/)
+- [Build a gem guide](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/)
+- [Ruby gems: Make a gem](http://guides.rubygems.org/make-your-own-gem/)
+- [Bundler](http://bundler.io/v1.11/bundle_gem.html)
+- [Ruby gems: Commands reference](http://guides.rubygems.org/command-reference/)
+- [Ruby gems: Publish a gem](http://guides.rubygems.org/publishing/)
+- [Workflow Review: Make a gem](http://lcorr8.github.io/Workflow-review-worksheet-cli-gem/)
 
 #####Troubleshooting gem publishing resources
-• [Too many gem names error](https://fleetingdev.wordpress.com/2015/03/21/how-to-fix-the-%C2%93too-many-gem-names%C2%94-error-when-running-gem-build/)
-• [Specification class reference](http://guides.rubygems.org/specification-reference/)
-• [Rubygems is not allowed by gemspec error](http://bparanj.blogspot.com/2015/06/error-httpsrubygemsorg-is-not-allowed.html)
+- [Too many gem names error](https://fleetingdev.wordpress.com/2015/03/21/how-to-fix-the-%C2%93too-many-gem-names%C2%94-error-when-running-gem-build/)
+- [Specification class reference](http://guides.rubygems.org/specification-reference/)
+- [Rubygems is not allowed by gemspec error](http://bparanj.blogspot.com/2015/06/error-httpsrubygemsorg-is-not-allowed.html)
 
 
 
