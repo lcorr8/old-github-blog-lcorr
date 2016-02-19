@@ -71,7 +71,7 @@ I eventually changed the gemspec homepage, and fiddled with various other settin
 - [Ruby gems: Publish a gem](http://guides.rubygems.org/publishing/)
 - [Workflow Review: Make a gem](http://lcorr8.github.io/Workflow-review-worksheet-cli-gem/)
 
-#####Troubleshooting gem publishing resources
+##### Troubleshooting gem publishing resources
 - [Too many gem names error](https://fleetingdev.wordpress.com/2015/03/21/how-to-fix-the-%C2%93too-many-gem-names%C2%94-error-when-running-gem-build/)
 - [Specification class reference](http://guides.rubygems.org/specification-reference/)
 - [Rubygems is not allowed by gemspec error](http://bparanj.blogspot.com/2015/06/error-httpsrubygemsorg-is-not-allowed.html)
