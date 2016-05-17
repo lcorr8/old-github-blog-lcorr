@@ -19,7 +19,7 @@ I am now the brand new author of a Ruby Gem! :tada::dancer: It is called Broadwa
 
 As you know the name of my gem is Broadway Now and it provides a list of the 20 most popular shows currently playing in New York City. Specifically it includes Broadway and Off-Broadway shows (both musicals and plays.) Popularity of the shows is determined by www.Broadway.com. Once you find a show that you like, you can select it by number to get additional information such as: running time, intermission, theater, ticket prices, and a blurb about the show. You can find the Broadway Now gem in it’s [Github Repository]( ) or in [RubyGems.]( https://rubygems.org/gems/broadway_now ) 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Edv71AV-DGM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="425" src="https://www.youtube.com/embed/Edv71AV-DGM" frameborder="0" allowfullscreen></iframe>
 
 #### Process mini summary :chart_with_upwards_trend:
 
