@@ -3,7 +3,7 @@ layout: post
 title: Broadway Now CLI Gem!
 ---
 
-I am now the brand new author of a Ruby Gem! :tada::dancer: It is called Broadway Now and it shows the 20 most popular Broadway Shows currently playing in NYC. The project took me about 4 days to complete, although I spent what felt like most of the time troubleshooting the publishing of the gem. This project was a [Learn](https://learn.co/verified/?coupon=lv-student-referral-25&utm_campaign=Learn%20Student%20Referral%20Program&utm_medium=In%20App%20Email&utm_source=Learn.co%20Email%20Drips) assignment, I was tasked with building and publishing a command line interface (CLI) gem that scrapes data and displays it.
+I am now the brand new author of a Ruby Gem! :tada::dancer: It is called Broadway Now and it shows the 20 most popular Broadway Shows currently playing in NYC. The project took me about 4 days to complete, although I spent what felt like most of the time troubleshooting the publishing of the gem. This project was a [Learn](http://learn.co/with/lcorr8) assignment, I was tasked with building and publishing a command line interface (CLI) gem that scrapes data and displays it.
 
 #### Project Requirements :mag:
 
@@ -66,6 +66,7 @@ I eventually changed the gemspec homepage, and fiddled with various other settin
 - [Ruby gems: Commands reference](http://guides.rubygems.org/command-reference/)
 - [Ruby gems: Publish a gem](http://guides.rubygems.org/publishing/)
 - [Workflow Review: Make a gem](http://lcorr8.github.io/Workflow-review-worksheet-cli-gem/)
+- [Learn Verified referral link $250 discount](https://learn.co/with/lcorr8)
 
 ##### Troubleshooting gem publishing resources
 - [Too many gem names error](https://fleetingdev.wordpress.com/2015/03/21/how-to-fix-the-%C2%93too-many-gem-names%C2%94-error-when-running-gem-build/)
